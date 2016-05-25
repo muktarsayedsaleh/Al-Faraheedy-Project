@@ -1,0 +1,23 @@
+<table id="rule1" class="tableMukhtar3">
+	
+	<tr>
+		<td>فَاْعِلَاْتُنْ <small class="showMeAll">جوازاتُها</small>
+			<div class="maybeCome">
+				فَعِلَاْتُنْ 
+			</div>
+		</td>
+		<td>فَاْعِلُنْ <small class="showMeAll">جوازاتُها</small>
+			<div class="maybeCome">
+				فَعِلُنْ 
+			</div>
+		</td>
+		<td>فَاْعِلَاْتُنْ <small class="showMeAll">جوازاتُها</small>
+			<div class="maybeCome">
+				فَاْعِلَاْتْ <br/>
+				فَاْعِلُنْ  <br/>
+				فَعِلُنْ
+			</div>
+		</td>
+		
+	</tr>
+</table>

@@ -1,0 +1,38 @@
+
+
+body{
+	color: #888;
+	direction:rtl;
+	font-family:tahoma;
+	font-size:18px;
+}
+
+
+.tableMukhtar
+{
+	width:100%;
+	text-align:center;
+	
+	
+}
+.tableMukhtar tr td,.tableMukhtar tr th,.tableMukhtar2 tr td,.tableMukhtar2 tr th,.tableMukhtar3 tr td,.tableMukhtar3 tr th
+{
+	border:1px solid;
+	
+	
+}
+.tableMukhtar td,.tableMukhtar2 td,.tableMukhtar3 td
+{
+	padding:0 15px;
+}
+
+
+.commandsTR , #commandsTafeelaAll
+{
+	display :none;
+}
+
+.execTime
+{
+	display:none;
+}

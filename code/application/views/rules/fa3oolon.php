@@ -1,0 +1,9 @@
+<table id="rule1" class="tableMukhtar3">
+	<tr>
+		<td>فَعُوْلُنْ <small class="showMeAll">جوازاتُها</small>
+			<div class="maybeCome">
+				فَعُوْلُ
+			</div>
+		</td>
+	</tr>
+</table>

@@ -1,0 +1,238 @@
+body
+{
+	text-align:center;
+	direction:rtl;
+	color:black;
+}
+
+.poem
+{
+	clear:both;
+	width:95%;
+	font-family:"simplified arabic","tahoma" !important;
+	font-size:20px;
+
+}
+
+.hamesh
+{
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+.tableMukhtar,.tableMukhtar2,.tableMukhtar3
+{
+	width:100%;
+	text-align:center;
+	-webkit-box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+    -moz-box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+    box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+	
+	
+}
+.tableMukhtar tr td,.tableMukhtar tr th,.tableMukhtar2 tr td,.tableMukhtar2 tr th,.tableMukhtar3 tr td,.tableMukhtar3 tr th
+{
+	border:1px solid;
+	
+	
+}
+.tableMukhtar td,.tableMukhtar2 td,.tableMukhtar3 td
+{
+	padding:0 15px;
+}
+
+.tableMukhtar tr:nth-child(1),.tableMukhtar2 th
+{
+background: rgb(252,255,244); /* Old browsers */
+background: -moz-linear-gradient(top, rgba(252,255,244,1) 0%, rgba(223,229,215,1) 40%, rgba(179,190,173,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,255,244,1)), color-stop(40%,rgba(223,229,215,1)), color-stop(100%,rgba(179,190,173,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(252,255,244,1) 0%,rgba(223,229,215,1) 40%,rgba(179,190,173,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(252,255,244,1) 0%,rgba(223,229,215,1) 40%,rgba(179,190,173,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(252,255,244,1) 0%,rgba(223,229,215,1) 40%,rgba(179,190,173,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(252,255,244,1) 0%,rgba(223,229,215,1) 40%,rgba(179,190,173,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfff4', endColorstr='#b3bead',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+
+
+.noteMukhtar
+{
+	background: #e2e2e2; /* Old browsers */
+	background: -moz-linear-gradient(top, #e2e2e2 0%, #dbdbdb 50%, #d1d1d1 51%, #fefefe 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e2e2e2), color-stop(50%,#dbdbdb), color-stop(51%,#d1d1d1), color-stop(100%,#fefefe)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */
+	-webkit-box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+    -moz-box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+    box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+	padding:10px;
+	
+}
+
+
+
+#tabs ul li
+{
+	font-size:14px;
+}
+
+audio
+{
+	width:100%;
+}
+
+.resultsHead
+{
+	text-align:center;
+	padding-bottom:20px;
+	border-top:1px solid;
+	margin-top:20px;
+	padding-top:10px;
+}
+
+.resultsTable
+{
+	width:100%;
+}
+.resultsTable tr td
+{
+	padding:0 5px;
+}
+.resultsTable tr
+{
+	padding:5px 0;
+}
+.moreDetails
+{
+	font-size:18px;
+}
+
+.moreDetailsTd
+{
+	cursor:hand;
+	cursor:pointer;
+}
+
+.hiddenTr
+{
+	display:none;
+}
+/*-------------*/
+
+.partOfPoem,.partOfPoemErr
+{
+	float:right;
+	margin:3px;
+	padding:5px;
+	border:solid 1px;
+	text-align:center;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	-o-border-radius:3px;
+	line-height:25px;
+	
+	min-width:50px;
+	
+	font-family:'Simplified Arabic','Tahoma';
+	font-size:20px;
+}
+
+.partOfPoemErr
+{
+	cursor:pointer;
+	cursor:hand;
+	background: #ff3019; /* Old browsers */
+background: -moz-linear-gradient(top, #ff3019 0%, #cf0404 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff3019), color-stop(100%,#cf0404)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #ff3019 0%,#cf0404 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #ff3019 0%,#cf0404 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #ff3019 0%,#cf0404 100%); /* IE10+ */
+background: linear-gradient(to bottom, #ff3019 0%,#cf0404 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 ); /* IE6-9 */
+	
+	color:white;
+	border-color:black;
+}
+
+.partOfPoemErr:hover
+{
+
+	-webkit-box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+    -moz-box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+    box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+	
+}
+
+.partOfPoem:hover
+{
+	
+	background: #a4b357; /* Old browsers */
+	background: -moz-linear-gradient(top, #a4b357 0%, #75890c 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a4b357), color-stop(100%,#75890c)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #a4b357 0%,#75890c 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #a4b357 0%,#75890c 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #a4b357 0%,#75890c 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #a4b357 0%,#75890c 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a4b357', endColorstr='#75890c',GradientType=0 ); /* IE6-9 */
+	
+	-webkit-box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+    -moz-box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+    box-shadow:0px 0px 9px rgba(0,0,0,0.4), 0px 0px 0px 1px rgba(188,188,188,0.1);
+	
+}
+
+.hiddenSpan
+{
+	display:none;
+}
+
+.commandPic,.commandPic2
+{
+	margin:0 0 -8px 8px;
+	width:32px;
+	height:32px;
+	-webkit-transition:all 0.3s ease;
+    -moz-transition:all 0.3s ease;
+    -o-transition:all 0.3s ease;
+    transition:all 0.3s ease;
+	opacity:0.5;
+}
+
+.commandPic:hover
+{
+	 opacity:1;
+   
+	-webkit-transform:scale(1.2);
+    -moz-transform:scale(1.2);
+    -ms-transform:scale(1.2);
+    -o-transform:scale(1.2);
+    transform:scale(1.2);
+}
+a:hover>.commandPic2
+{
+	 opacity:1;
+   
+	-webkit-transform:rotate(360deg);
+    -moz-transform:rotate(360deg);
+    -ms-transform:rotate(360deg);
+    -o-transform:rotate(360deg);
+    transform:rotate(360deg);
+}
+
+#commandsTafeelaAll
+{
+	display:none;
+}
+
+.execTime
+{
+	display:none;
+}

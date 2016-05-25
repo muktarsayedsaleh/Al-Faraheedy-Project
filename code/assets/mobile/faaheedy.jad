@@ -1,0 +1,174 @@
+Manifest-Version: 1.0
+MIDlet-Jar-Size: 2162287
+RIM-MIDlet-Icon-2-1: resources/icon_hover.png,focused
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0.1
+RIM-COD-Size: 70476
+RIM-MIDlet-Flags-1: 0
+MIDlet-Name: FaraheedyMobile
+RIM-COD-URL-51: FaraheedyMobile-51.cod
+RIM-COD-URL-50: FaraheedyMobile-50.cod
+RIM-MIDlet-Icon-Count-2: 1
+RIM-MIDlet-Icon-Count-1: 1
+RIM-COD-URL-9: FaraheedyMobile-9.cod
+RIM-COD-URL-8: FaraheedyMobile-8.cod
+RIM-COD-URL-49: FaraheedyMobile-49.cod
+RIM-COD-URL-7: FaraheedyMobile-7.cod
+RIM-COD-URL-48: FaraheedyMobile-48.cod
+RIM-COD-URL-6: FaraheedyMobile-6.cod
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-URL-47: FaraheedyMobile-47.cod
+RIM-COD-URL-5: FaraheedyMobile-5.cod
+RIM-COD-Size-51: 67656
+RIM-COD-URL-46: FaraheedyMobile-46.cod
+RIM-COD-URL-4: FaraheedyMobile-4.cod
+RIM-COD-Size-50: 51152
+RIM-COD-URL-45: FaraheedyMobile-45.cod
+RIM-COD-URL-3: FaraheedyMobile-3.cod
+RIM-COD-URL-44: FaraheedyMobile-44.cod
+RIM-COD-URL-2: FaraheedyMobile-2.cod
+RIM-COD-URL-43: FaraheedyMobile-43.cod
+RIM-COD-URL-1: FaraheedyMobile-1.cod
+RIM-COD-URL-42: FaraheedyMobile-42.cod
+RIM-COD-URL-41: FaraheedyMobile-41.cod
+RIM-COD-Size-9: 51444
+RIM-COD-URL-40: FaraheedyMobile-40.cod
+RIM-COD-Size-8: 66684
+RIM-COD-Size-7: 64500
+RIM-COD-Size-6: 68452
+RIM-COD-Size-5: 63676
+RIM-COD-Size-4: 67540
+RIM-COD-Size-3: 70780
+RIM-COD-Size-2: 73504
+RIM-COD-Size-1: 70552
+RIM-COD-Size-49: 43880
+RIM-COD-Size-48: 58652
+RIM-COD-Size-47: 51240
+RIM-COD-Size-46: 46108
+RIM-COD-Size-45: 56152
+RIM-COD-Size-44: 50840
+RIM-COD-URL-39: FaraheedyMobile-39.cod
+RIM-COD-Size-43: 50840
+RIM-COD-URL-38: FaraheedyMobile-38.cod
+RIM-COD-Size-42: 50840
+RIM-COD-URL-37: FaraheedyMobile-37.cod
+RIM-COD-URL-36: FaraheedyMobile-36.cod
+RIM-COD-Size-41: 50840
+RIM-COD-URL-35: FaraheedyMobile-35.cod
+RIM-COD-Size-40: 50836
+RIM-COD-URL-34: FaraheedyMobile-34.cod
+RIM-COD-URL-33: FaraheedyMobile-33.cod
+RIM-COD-URL-32: FaraheedyMobile-32.cod
+RIM-COD-URL-31: FaraheedyMobile-31.cod
+RIM-COD-URL-30: FaraheedyMobile-30.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_pdap,net_rim_bb_web_jse_api,net_rim_xml_org,net_rim_bb_browser_field2_api,net_rim_os,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_bbapi_invoke,net_rim_bbapi_browser,net_rim_bbapi_push,net_rim_bbapi_messagelist,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_xml,net_rim_locationapi
+MIDlet-Vendor: mokhtar_ss@hotmail.com
+RIM-COD-Size-39: 50836
+RIM-COD-Size-38: 54632
+RIM-COD-Size-37: 32608
+RIM-COD-Size-36: 50832
+RIM-COD-Size-35: 52488
+RIM-COD-URL-29: FaraheedyMobile-29.cod
+RIM-COD-Size-34: 50848
+RIM-COD-URL-28: FaraheedyMobile-28.cod
+RIM-COD-Size-33: 50912
+RIM-COD-URL-27: FaraheedyMobile-27.cod
+RIM-COD-Size-32: 50912
+RIM-COD-URL-26: FaraheedyMobile-26.cod
+RIM-COD-Size-31: 50908
+RIM-COD-URL-25: FaraheedyMobile-25.cod
+RIM-COD-Size-30: 50908
+RIM-COD-URL-24: FaraheedyMobile-24.cod
+RIM-COD-URL-23: FaraheedyMobile-23.cod
+RIM-COD-URL-22: FaraheedyMobile-22.cod
+RIM-COD-URL-21: FaraheedyMobile-21.cod
+RIM-COD-URL-20: FaraheedyMobile-20.cod
+RIM-COD-URL: FaraheedyMobile.cod
+MIDlet-Description: WWW.FARAHEEDY.COM APP
+RIM-COD-Module-Name: FaraheedyMobile
+RIM-COD-Size-29: 55916
+RIM-COD-Size-28: 50912
+RIM-MIDlet-Icon-1-1: resources/icon_hover.png,focused
+RIM-COD-Size-27: 54556
+RIM-COD-Size-26: 56412
+RIM-COD-Size-25: 50912
+RIM-COD-URL-19: FaraheedyMobile-19.cod
+RIM-COD-Size-24: 50912
+RIM-COD-URL-18: FaraheedyMobile-18.cod
+RIM-COD-Size-23: 50912
+RIM-COD-URL-17: FaraheedyMobile-17.cod
+RIM-COD-Size-22: 50912
+RIM-COD-URL-16: FaraheedyMobile-16.cod
+RIM-COD-Size-21: 50908
+RIM-COD-URL-15: FaraheedyMobile-15.cod
+RIM-COD-Size-20: 50908
+RIM-COD-URL-14: FaraheedyMobile-14.cod
+RIM-COD-URL-13: FaraheedyMobile-13.cod
+RIM-COD-URL-12: FaraheedyMobile-12.cod
+RIM-COD-URL-11: FaraheedyMobile-11.cod
+RIM-COD-URL-10: FaraheedyMobile-10.cod
+RIM-COD-Size-19: 50904
+RIM-COD-Size-18: 55524
+RIM-COD-Size-17: 57008
+RIM-COD-Size-16: 50980
+RIM-COD-Size-15: 57776
+RIM-COD-Size-14: 56344
+RIM-COD-Size-13: 56104
+RIM-COD-Size-12: 50860
+RIM-COD-Size-11: 50860
+RIM-COD-Size-10: 50860
+MIDlet-1: FaraheedyMobile,resources/icon.png,rim:foreground;WIDGET;
+RIM-COD-SHA1-51: 0c 0b 40 5d d4 38 df 7f da 2b ba dc b6 7d f8 a9 6d d6 52 42
+RIM-COD-SHA1-50: fb 9c 1d 3e be 55 a0 5f 88 ee e0 6c 1c 92 4e 46 cf 53 d8 ae
+RIM-COD-SHA1: d7 3f c0 29 db db 76 d4 e4 e2 35 06 43 60 f7 38 1e cf 5e 8b
+RIM-COD-SHA1-49: 97 30 38 e1 22 e4 e8 0e 24 28 2a 34 b7 63 6c 9a 92 75 fd 78
+RIM-COD-SHA1-48: 12 18 67 16 5f 7d 14 1b 42 97 08 68 7d 56 9b bb e0 aa 53 bf
+RIM-COD-SHA1-47: 0d 10 be 47 57 66 88 f6 db 86 ed 2b 57 fa 81 09 9f 0e 8d bf
+RIM-COD-SHA1-46: 24 04 f2 a6 8e 0b 5e 22 28 0a cc 2c b4 e2 d1 5c 31 e9 d0 5b
+RIM-COD-SHA1-45: 71 15 7c 3b 5b 92 86 48 86 16 06 0f e6 8f af 47 ec 12 f2 41
+RIM-COD-SHA1-44: 78 f7 42 15 42 7e 9e 03 bf 28 07 84 15 8f 30 20 50 b5 d5 02
+RIM-COD-SHA1-43: 9d 43 74 73 3a 4a 75 ed ab 35 40 15 38 d5 d0 f3 d7 7a 25 1e
+RIM-COD-SHA1-42: 79 37 59 66 8b f7 e2 af 0d c0 3c 28 d3 51 93 62 4a 5b 65 27
+RIM-COD-SHA1-41: 3a 93 f5 1a c6 7e 03 f4 eb e3 5a 96 79 91 84 85 27 57 a9 cc
+RIM-COD-SHA1-40: 51 d2 a0 83 fd e7 24 44 31 a1 c7 4a aa 0f 76 80 1e ad e9 c6
+RIM-COD-SHA1-39: 38 c1 2b f2 72 d8 a4 4e 3e 63 d3 40 72 8a 6a 78 60 50 2b dc
+RIM-COD-SHA1-38: 2c d9 be ec 7b 75 83 0a dc ba 63 be 35 83 75 2c 9a d9 46 7b
+RIM-COD-SHA1-37: 9e 63 c3 43 3b 04 2d 17 23 ac 2e f1 4e e6 39 67 2b e9 ce c8
+RIM-COD-SHA1-36: b3 41 80 0a 48 29 59 90 15 81 6d d2 2a 57 4b b6 07 1c 30 83
+MIDlet-Jar-URL: FaraheedyMobile.jar
+RIM-COD-SHA1-35: 37 6f 8a 83 9b c6 2e a0 f6 2c 3e 1b dd 35 64 6a 98 db 57 92
+RIM-COD-SHA1-34: d8 ce 34 f8 b2 cc a6 6e b3 18 d8 24 27 5e 7f 29 ea db eb d3
+RIM-COD-SHA1-33: 5d 0e cf 9a b5 15 c6 42 ba 53 86 38 14 98 86 c5 00 9a 6c a0
+RIM-COD-SHA1-32: 17 31 82 76 32 55 a3 37 d4 80 99 19 36 bf 97 79 16 48 81 09
+RIM-COD-SHA1-31: 91 36 a1 f3 c5 fa 18 91 97 0d 5e d3 76 11 49 0e 0d 9f 96 de
+RIM-COD-SHA1-30: c0 c9 bb f0 36 23 55 96 13 87 e0 01 2e f4 44 e4 b9 9d fc d1
+RIM-COD-SHA1-9: f7 e1 eb d3 89 32 c4 38 1c 5a 5d 51 fb e6 19 6a 61 68 42 c8
+RIM-COD-SHA1-8: cc d4 d7 1e 81 ec 1f 80 f7 1e 77 03 88 bf ad 04 1c 0d 6c 1b
+RIM-COD-SHA1-7: 0f 68 d6 90 75 d6 24 b4 ad 00 8e c6 01 d7 da 1b 1d de 7d c5
+RIM-COD-SHA1-6: 28 a0 ec 58 b5 bd 2b 9a 60 9f 2c 94 fd 30 54 55 53 32 1e 54
+RIM-COD-SHA1-5: b5 ed f3 fe c5 68 51 e9 49 ae 30 1a b4 c5 3e 7d 16 df 89 1a
+RIM-COD-SHA1-4: 4e 7c 87 55 03 f2 9d 21 20 d9 a4 1c da 6a d9 75 13 34 ee 88
+RIM-COD-SHA1-3: 77 f9 b7 cf 81 e3 26 45 16 e7 dc cf ac ae ca 1e c9 1f ba 89
+RIM-COD-SHA1-2: 5d 89 2e 7a 8e 5e 01 67 96 0c 63 df fb 34 9b 1f 01 9e 25 25
+RIM-COD-SHA1-1: 4b 23 17 26 6e 74 16 f8 c9 f3 b3 84 c9 64 9a b8 46 2d 93 6b
+RIM-COD-SHA1-29: f9 df b9 ee ba 65 2d af 60 71 15 b1 b3 68 b9 0f 8b 02 ae fe
+RIM-COD-SHA1-28: 62 f9 38 c1 a3 f7 95 9b 64 6c e9 ed b8 a2 73 d2 1e 43 26 ae
+RIM-COD-SHA1-27: ea 77 04 9b 32 02 93 7c 1d 3f d1 f8 99 37 ea 00 32 cd 64 23
+RIM-COD-SHA1-26: c4 5c dc c0 8e d2 6f 50 ab 2e 81 54 35 e9 28 82 ff 8a 24 99
+RIM-COD-SHA1-25: ab 90 5e 4b db f2 68 2a 3e 05 56 40 ae 77 d6 85 6e 17 9a a8
+RIM-COD-SHA1-24: e2 59 70 ae 74 ff 33 1d dc 07 b0 07 5a 27 1a f3 74 62 3b 23
+RIM-COD-SHA1-23: 83 c1 db 48 42 d7 9f 5d f9 eb d8 b6 2e 46 63 2c 7b 0f d6 8d
+RIM-COD-SHA1-22: 30 bd 3b e2 c3 27 f9 b9 98 7b 5e 43 01 59 fc d8 b0 c1 75 98
+RIM-COD-SHA1-21: c2 e2 0c 34 b5 0b 25 02 e6 5e f2 c2 a3 bb 14 5e 14 fd 13 84
+RIM-COD-SHA1-20: d4 83 28 7a 26 ff 9b 90 a8 ec d4 0f 51 54 44 d8 0c f1 a3 92
+RIM-COD-Creation-Time: 1383061320
+RIM-COD-SHA1-19: 9a 0c 45 3d 23 8b 50 06 2b d1 ee cf e7 54 1d 29 34 6a ed 5d
+RIM-COD-SHA1-18: 9c ab 9d 02 13 05 7f 9e d1 98 3a b3 3b 2c 52 65 02 02 59 b7
+RIM-COD-SHA1-17: 36 bd 16 b2 fe 0c 09 24 71 c0 dd 3b ee 4e 70 f7 88 f5 99 1a
+RIM-COD-SHA1-16: 58 21 bf 4e 0b 4b 27 6b 5c 3a 36 ff 94 bd c5 a7 3a a0 17 cc
+RIM-COD-SHA1-15: fc b8 33 8a 42 f5 9a 5f f9 40 dd 40 08 0c ea d5 64 61 f0 02
+RIM-COD-SHA1-14: 14 40 46 9b db 75 d2 c5 18 c1 24 f8 44 01 b1 75 6b 29 89 0e
+RIM-COD-SHA1-13: 8c c2 6c 4c 4b fe de 9d b3 6b 69 0a 25 07 85 01 06 f1 f8 fc
+RIM-COD-SHA1-12: 56 df 6c 8c 4e 02 92 84 12 28 4a 11 29 b8 5f 59 d3 7f ed 1e
+RIM-COD-SHA1-11: f7 e9 ec d9 64 17 95 b8 f0 fb 50 a9 9a b4 31 f3 d0 c4 3d 63
+RIM-COD-SHA1-10: 80 1e e5 ea 5b 60 9a 2e 28 26 f4 c5 a8 2b 14 07 e9 10 98 9f
