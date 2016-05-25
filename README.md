@@ -12,5 +12,7 @@
 
 لأيّ استفسار أو اقتراح التواصل معي عبر
 https://www.facebook.com/Mukhtar.SS
+
 www.mukhtar.me
+
 mokhtar_ss@hotmail.com
