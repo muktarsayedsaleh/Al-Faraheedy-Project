@@ -48,11 +48,11 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'mukhtarme.ipagemysql.com';
+$db['default']['hostname'] = 'db:3306';
 $db['default']['username'] = 'faraheedy';
-$db['default']['password'] = 'P@ssw0rd123!@#';
+$db['default']['password'] = 'faraheedy';
 $db['default']['database'] = 'faraheedy';
-$db['default']['dbdriver'] = 'mysql';
+$db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
 $db['default']['db_debug'] = TRUE;
@@ -63,21 +63,3 @@ $db['default']['dbcollat'] = 'utf8_general_ci';
 $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
-
-
-/* End of file database.php */
-/* Location: ./application/config/database.php */
-
-// enable this part when moing to container
-$database_url = getenv("DATABASE_URL");
-$url=parse_url(getenv("DATABASE_URL"));
-$server = $url["host"];
-$username = isset($url["user"]) ? $url["user"] : '';
-$password = isset($url["pass"]) ? $url["pass"] : '';
-$database = substr($url["path"], 1);
-
-$db['default']['hostname'] = $server === 'localhost' ? '127.0.0.1' : $server;
-$db['default']['username'] = $username;
-$db['default']['password'] = $password;
-$db['default']['database'] = $database;
-$db['default']['dbdriver'] = 'mysqli';

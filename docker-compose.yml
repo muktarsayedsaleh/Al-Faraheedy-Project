@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  db:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: faraheedy
+      MYSQL_DATABASE: faraheedy
+      MYSQL_USER: faraheedy
+      MYSQL_PASSWORD: faraheedy
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./db/faraheedy.sql:/docker-entrypoint-initdb.d/faraheedy.sql
+  web:
+    container_name: php_web
+    build:
+      context: .
+      dockerfile: ./code/Dockerfile
+    depends_on:
+      - db
+    volumes:
+      - ./code/:/var/www/html/
+    ports:
+      - "80:80"
+    stdin_open: true
+    tty: true
