@@ -7,12 +7,8 @@
 شكراً جزيلاً لتجشّمكم عناء التحميل و أسألكم الدعاء أن يتقبّل الله هذا العمل المتواضع منّي
 
 لأيّ استفسار أو اقتراح التواصل معي عبر
+https://www.linkedin.com/in/muktarsayedsaleh/
 
-https://www.facebook.com/Mukhtar.SS
-
-https://twitter.com/Mukhtar_ss
-
-https://www.linkedin.com/in/mukhtarsayedsaleh/
 
 ## How to run using Docker?
 1. Make sure to have Docker & Docker Compose installed in your machine.
